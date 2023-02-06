@@ -1,4 +1,4 @@
-# Django-School-Management-System
+# Django-Library
 
 This BACKEND API for online libraries
 
