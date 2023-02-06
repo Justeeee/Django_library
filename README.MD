@@ -24,7 +24,7 @@ Then locate http://172.0.0.1:8000
 When you run migrate, a superuser is created.
 ```bash
 username: admin
-password: admin123
+password: 1
 ```
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
